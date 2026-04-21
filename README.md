@@ -1,6 +1,6 @@
 ### :wave: Hi there
 
-🎓 I am a CS PhD Student at **Georgia Institute of Technology** in the School of Interactive Computing. <br/>
+🎓 I am a HCC(Human-Centered Computing) PhD Student at **Georgia Institute of Technology** in the School of Interactive Computing. <br/>
 🎓 I have completed my Master's Degree in Computer Science at **Brown University** <br/>
 🌱 I am an alumni of [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) <br/>
 <!--📝 I am currently trying to write a research paper on the [SpaceOver](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-TARS) app project done during my time at [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) <br/> --->
